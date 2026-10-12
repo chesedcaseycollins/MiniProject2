@@ -1,0 +1,601 @@
+prepost;project;commit;author;time;message
+pre;caseyyoungflesh_post;49572e0cd3a852dc812def133896d2fd6a4eb59b;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1459719197;"Test and commit from MBP
+"
+pre;caseyyoungflesh_post;065e98cf43029f4e46bf49d0f5c7582e91d70c35;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1459719211;"Merge branch 'master' of https://github.com/caseyyoungflesh/post
+"
+pre;caseyyoungflesh_post;fdd87cba14ec34a6c74428bb76c97525a88a5e47;Casey Youngflesh <caseyyoungflesh@users.noreply.github.com>;1459719360;Update README.md
+pre;caseyyoungflesh_post;5f95de0863988836616f933f012c3bacef5afa91;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1459720964;"Delete temp file conflict
+"
+pre;caseyyoungflesh_post;8d4de75c9dd13864bbb046a977670339035a1918;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1459774185;"Fix gline blockage by denstrip
+"
+pre;caseyyoungflesh_post;df927b41ed65f12e44ac5d57e0befcb348e4b3fe;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1461462510;"Fix ylab issue
+Fix color order issue
+Add option for CI color
+"
+pre;caseyyoungflesh_post;6048f3aeac853287393d860e7867c876f598e482;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1461462596;"Update version number
+"
+pre;caseyyoungflesh_post;9210181e011fdc19656ac5aedbcf8e7c05b3dc38;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1461531823;"Change return for posummary and pochains
+"
+pre;caseyyoungflesh_post;178bbd15b2a4f78b5c45c9d4b8a393411c7f0fff;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1461564392;"mbp commit
+"
+pre;caseyyoungflesh_post;3f73693d0fda2c979d3112207227484a07a92834;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1461566911;"Add documentation regarding poplot details
+
+ylab workings when rank = TRUE
+"
+post;caseyyoungflesh_post;15004cfad54767c3e82168a8593e363e6e444c81;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475015242;"Remove option of centrality - always median now
+"
+post;caseyyoungflesh_post;caf238146b89100090b2ce44e98b96aa24af66df;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475019653;"Add second posterior plot style
+"
+post;caseyyoungflesh_post;f43ce14494e7d097b71c43a8829e733b45c891bd;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475023069;"Clean up plotting function poplot2
+"
+post;caseyyoungflesh_post;830c35ccce084df84817198f2747db9f63b1501a;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475026964;"Plot improvements
+"
+post;caseyyoungflesh_post;4f97610b2e4927c804636669f9bbfcdac64280b6;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475026998;"Remove grid for plot
+"
+post;caseyyoungflesh_post;d747654d86fc107fb51541dec4f221ec1130df05;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475027165;"Add notes to poplot2
+"
+post;caseyyoungflesh_post;35fdc68345862a693c1fe8af448f692d00abab9d;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475027473;"Adjsut size of median dot - poplot2
+"
+post;caseyyoungflesh_post;c173b9b8d383479f460d6d1363e7c138e4f9f1dd;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475098176;"Add tick options poplot2
+"
+post;caseyyoungflesh_post;d915d840c0c611f76a0a9977263ef61c3b337fd8;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475103982;"Add labels y-axis
+"
+post;caseyyoungflesh_post;3541f1913da2d5b6171a3f3f6d96f5fbdf3bfd2e;Casey Youngflesh <casey.youngflesh@stonybrook.edu>;1475104808;"Fix x-axes issue when more params added
+"
+pre;cosmoscout_cosmoscout-vr;e119ec1f7501cae9554787eeb8f408bbb440d648;Simon Schneegans <code@simonschneegans.de>;1551715258;":art: Add logo
+"
+pre;cosmoscout_cosmoscout-vr;ddba458d3417801aceff9e9df111d0b01848aacd;Simon Schneegans <code@simonschneegans.de>;1551715274;":memo: Add logo to README.md
+"
+pre;cosmoscout_cosmoscout-vr;7e806c6578d861231b147763dfb7a71ac11491bd;Simon Schneegans <code@simonschneegans.de>;1551729492;":art: Refine logo
+"
+pre;cosmoscout_cosmoscout-vr;e2ebdcd06cb4dc399fa36a54b34ec7564be4787f;Simon Schneegans <code@simonschneegans.de>;1551729504;":art: Add small logo variant
+"
+pre;cosmoscout_cosmoscout-vr;1aa7750fe9ec3b1ac234489f1683c4fbd888e1b8;Simon Schneegans <code@simonschneegans.de>;1551729776;":art: Refine small logo
+"
+pre;cosmoscout_cosmoscout-vr;ce90787329574598a8caad5c19956bea67506567;Simon Schneegans <code@simonschneegans.de>;1551764832;":truck: Move Logos to separate directory
+"
+pre;cosmoscout_cosmoscout-vr;787ebf7353c1b40490cd6e9988d946a27f1b51fc;Simon Schneegans <code@simonschneegans.de>;1551764856;":art: Add small logo variant
+"
+pre;cosmoscout_cosmoscout-vr;fa1d97dccc7c825daf0870744b4e85fd53d2ac44;Simon Schneegans <code@simonschneegans.de>;1551764867;":art: Add logo source file
+"
+pre;cosmoscout_cosmoscout-vr;785ed1d0cc25633147174e7c8db852c255bfe916;Simon Schneegans <code@simonschneegans.de>;1552762675;":art: Refine logos
+"
+pre;cosmoscout_cosmoscout-vr;b337c7bae004b8b814743386e26d171353040838;Simon Schneegans <code@simonschneegans.de>;1552762683;":art: Add icon
+"
+post;cosmoscout_cosmoscout-vr;3bc996e90b98f2edc4e271645e9d941a794f3d53;Simon Schneegans <code@simonschneegans.de>;1563199281;":copyright: Update copyright information
+"
+post;cosmoscout_cosmoscout-vr;a7e616da3a6b095a8e62f82425834559ad615ac1;Simon Schneegans <code@simonschneegans.de>;1563200519;":tada: Add Contributor License Agreement
+"
+post;cosmoscout_cosmoscout-vr;f4a52ede792d1a1d87d91dd56e30a959f089b03b;Simon Schneegans <code@simonschneegans.de>;1563200547;":tada: Add initial contribution guide
+"
+post;cosmoscout_cosmoscout-vr;700c3b3635c9cf02ba409ec5aa8ca5cca298ae27;Simon Schneegans <code@simonschneegans.de>;1563200575;":tada: Add clang-format script for linux
+"
+post;cosmoscout_cosmoscout-vr;578d3cd336d88f83e7efdfe22f100d74ea0908bb;Simon Schneegans <code@simonschneegans.de>;1563200596;":tada: Add script for counting lines of source code
+"
+post;cosmoscout_cosmoscout-vr;f7f916e62563e69538b7b91208c2bb274f69864a;Simon Schneegans <code@simonschneegans.de>;1563200644;":tada: Add some initial information to the README.md
+"
+post;cosmoscout_cosmoscout-vr;6d921735031019b2a494e2e7ee68d05d5a874c46;Simon Schneegans <code@simonschneegans.de>;1563202052;":tada: Add external submodules
+"
+post;cosmoscout_cosmoscout-vr;dc89d7ac08d58dfe85af5ca83027f46610fd3653;Simon Schneegans <code@simonschneegans.de>;1563202175;":tada: Add scripts for building external submodules
+"
+post;cosmoscout_cosmoscout-vr;120c105a2e2063fa10cb52f4ea48a80efce6afdb;Simon Schneegans <code@simonschneegans.de>;1563202497;":tada: Add clang-format file
+"
+post;cosmoscout_cosmoscout-vr;ca9bc377b36320b3619d06e1eeb02e3d756ea8fd;Simon Schneegans <code@simonschneegans.de>;1563261422;":tada: Add .gitignore file
+"
+pre;davidcarslaw_openair;e691cc9638b663f1eac79c7a90041925a07e4757;davidcarslaw <david.carslaw@york.ac.uk>;1615888872;"update url
+"
+pre;davidcarslaw_openair;bbdee60db516bb4867a3c5e7322fffc347bfb461;davidcarslaw <david.carslaw@york.ac.uk>;1615889909;"fix case with missing before/after when difference = TRUE
+"
+pre;davidcarslaw_openair;5cd4ecf5d04b1a45d41651488c4c36f5337d15da;davidcarslaw <david.carslaw@york.ac.uk>;1615892499;"update to https
+"
+pre;davidcarslaw_openair;c9cf70f1fd73704faf8c74d92355320fad1c9eb9;davidcarslaw <david.carslaw@york.ac.uk>;1615894174;"Allow multiple sites when difference = TRUE
+"
+pre;davidcarslaw_openair;119e3847c03c2df3cac14cd809ac5241dca78f03;davidcarslaw <david.carslaw@york.ac.uk>;1615906622;"updates date
+"
+pre;davidcarslaw_openair;5c54bad958854dd8abcd461d37a65c627a360b04;davidcarslaw <david.carslaw@york.ac.uk>;1616004618;"update docs
+"
+pre;davidcarslaw_openair;8362038963b854cfb4a9befc15365a7384ac7af7;karlropkins <k.ropkins@its.leeds.ac.uk>;1616090706;Update importAURNCsv.R
+pre;davidcarslaw_openair;9d3e90c23711c019024a1e8d1dd84f44c06c1fee;karlropkins <k.ropkins@its.leeds.ac.uk>;1616092472;Update importAURNCsv.R
+pre;davidcarslaw_openair;a75278bf2a2f34d4581531795d70fcb8d006360e;karlropkins <k.ropkins@its.leeds.ac.uk>;1616092535;Update importAURNCsv.R
+pre;davidcarslaw_openair;fa8742f7999f852601393698d85223bbd59809ad;karlropkins <k.ropkins@its.leeds.ac.uk>;1616093195;"Merge a75278bf2a2f34d4581531795d70fcb8d006360e into 5c54bad958854dd8abcd461d37a65c627a360b04
+"
+post;davidcarslaw_openair;0192b5f1f673ff66c3f2abf94cda3df7fcdfb509;davidcarslaw <david.carslaw@york.ac.uk>;1631602165;"add plot.type to summaryPlot
+"
+post;davidcarslaw_openair;ac9425d4b1443d1513d17e05d672a63257ebc24b;davidcarslaw <david.carslaw@york.ac.uk>;1631710904;"for CRAN release
+"
+post;davidcarslaw_openair;6970b4c52a9aff6ffacefc82282d9402fd779578;davidcarslaw <david.carslaw@york.ac.uk>;1634219006;"fix wind rose annotations
+"
+post;davidcarslaw_openair;4eb41c37563b49df0da1c6f6166e14f52ca01be8;davidcarslaw <david.carslaw@york.ac.uk>;1634283978;"enhance selectRunning
+"
+post;davidcarslaw_openair;ddf19d00169d61595494612af30f1745533efc63;davidcarslaw <david.carslaw@york.ac.uk>;1634291715;"still return data frame if no matchings
+"
+post;davidcarslaw_openair;4e17e2cde5d4a294a2f33bf1eabd64aa59175bba;davidcarslaw <david.carslaw@york.ac.uk>;1634293710;"update example
+"
+post;davidcarslaw_openair;83aab75052a45a9822699b3ab87560656e9c7762;davidcarslaw <david.carslaw@york.ac.uk>;1634306098;"bump version
+"
+post;davidcarslaw_openair;3dcad1c36be0f9ef0b911a7c7b6aaafcfce503ca;davidcarslaw <david.carslaw@york.ac.uk>;1634546295;"initial code to consider quantile trends
+"
+post;davidcarslaw_openair;ce1faefff42ba1bbf0e6d9f2e29f548ddf5d5243;davidcarslaw <david.carslaw@york.ac.uk>;1634548224;"tweak weighting
+"
+post;davidcarslaw_openair;b6746677938976cf5378716e16d094911af74705;davidcarslaw <david.carslaw@york.ac.uk>;1634550648;"don't force positive for trend
+"
+pre;jackwasey_icd;eb3962244f26f7898d6f1b92e0f4fc6bdfcc93f1;Jack Wasey <jack@jackwasey.com>;1615201530;"rhub simpler checks for speed, no docs
+"
+pre;jackwasey_icd;1ee2a614e4458682e4a2ae1b28521def12d7201b;Jack Wasey <jack@jackwasey.com>;1615325184;"rhub from mac
+"
+pre;jackwasey_icd;806b7b076172c4d3562735fcb716cd9d1e6809cc;Jack O. Wasey <jack+git@jackwasey.com>;1615325458;"wip
+"
+pre;jackwasey_icd;ab5689f6c560414c8903a2dbd67365ed141b7b72;Jack O. Wasey <jack+git@jackwasey.com>;1615326575;"rhub wip
+"
+pre;jackwasey_icd;b2c30227ac75ad95fe3460b92657f0be1da5a12d;Jack O. Wasey <jack@jackwasey.com>;1615488668;"rhub wip, minimal warnings for quiet eigen
+"
+pre;jackwasey_icd;f5f091ec1927f13727593609ff3cd08f37084996;Jack O. Wasey <jack@jackwasey.com>;1615655411;"drop some data-building dependencies, so xml2 and RODBC can be removed from Suggested
+"
+pre;jackwasey_icd;2903c55a66f1d5356443b170c57c244d6485ba8c;Jack O. Wasey <jack@jackwasey.com>;1615674354;"[ci skip] tweak tools
+"
+pre;jackwasey_icd;38782cdbab9602131b054fd82613c4f81ec731ee;Jack O. Wasey <jack@jackwasey.com>;1615674830;"tool tweaks, and drop test in CRAN package
+
+Don't build package with data development tests. This greatly simplifies test builds needing RODBC, xml2, and myriad dependencies.
+"
+pre;jackwasey_icd;e85830b9a4e97dbf7acee6e908cf5c0518a30c35;Jack O. Wasey <jack@jackwasey.com>;1615674830;"don't build package with data development tests
+"
+pre;jackwasey_icd;9d6933ea188551e767a1e78791573e94d27e6539;Jack Wasey <jackwasey@users.noreply.github.com>;1637426045;Create codeql-analysis.yml
+post;jackwasey_icd;c571d8c1ebd840215b61297b841a23ad7b150ddb;Jack Wasey <jackwasey@users.noreply.github.com>;1734714091;Update README.md
+pre;jbei_edd;520d6e0a686cb89ac303e7065d91814084846473;William Morrell <wcmorrell@lbl.gov>;1511825837;"Fix for nginx hitting timeout on websockets
+"
+pre;jbei_edd;dc691e149043750e942277bcf1729111d6214c26;Mark Forrer <mark.forrer@lbl.gov>;1511893411;"Removed debug print stmt
+"
+pre;jbei_edd;bdf4240371c8051375cda414988b4c5bde0a0a88;Mark Forrer <mark.forrer@lbl.gov>;1511893468;"Merge pull request #365 in EDD/edd-django from ~MARK.FORRER/edd-django:bugfix/EDD-953-Sample-ED-file-reverted to master
+
+* commit 'dc691e149043750e942277bcf1729111d6214c26':
+  Removed debug print stmt
+  Removed debug block
+  Reverted changes to the example file, and fixed underlying file naming / testing TODO's that caused the reversion 1) Reverted changes to the sample file intended for users 2) Reverted change to the ED unit test that caused it to reference the sample file intended for users. 3) Renamed file intended as test input to clarify the difference. 4) Implemented TODO in the unit test that makes it now dependent on the advanced ED file as intended / as manually tested before the ED feature got released around the holidays
+"
+pre;jbei_edd;97eee132d077df31373ecd1313dba243d50d4c19;Mark Forrer <mark.forrer@lbl.gov>;1511893480;"Merge pull request #366 in EDD/edd-django from ~MARK.FORRER/edd-django:bugfix/EDD-953-Sample-ED-file-reverted to release/20171114
+
+* commit 'dc691e149043750e942277bcf1729111d6214c26':
+  Removed debug print stmt
+  Removed debug block
+  Reverted changes to the example file, and fixed underlying file naming / testing TODO's that caused the reversion 1) Reverted changes to the sample file intended for users 2) Reverted change to the ED unit test that caused it to reference the sample file intended for users. 3) Renamed file intended as test input to clarify the difference. 4) Implemented TODO in the unit test that makes it now dependent on the advanced ED file as intended / as manually tested before the ED feature got released around the holidays
+"
+pre;jbei_edd;5d0d3ef8bc708c20780a16edd68677eb04d01e6a;Mark Forrer <mark.forrer@lbl.gov>;1511908939;"Updated/tested REST client scripts to work in Python3 (except fully retesting maintain_ice_links, which is WIP anyway)
+1) Removed import in jbei.edd.rest.scripts.__init__ that caused IceApi to be unnecessarily imported whenever EddApi is used (also caused some settings-related import problems when run without Django installed)
+2) Updated all imports that referenced the module path altered in #1
+3) Updated client scripts to fix unicode / bytestring issues when run against EDD 2.12 server (running Python 2)
+4) Updated requirements.txt to match EDD library versions and removed a lot of cruft
+5) Updated incompatible login code in jbei.rest.auth
+6) Changed uses of response.content to response.text to process as unicode
+"
+pre;jbei_edd;2cf623a9edba1cf9976da953d8d484380d2daa68;Mark Forrer <mark.forrer@lbl.gov>;1511914625;"Draft dockerfile...appears to work, except that updated requirements file isn't yet hosted on GitHub (pending EDD-965 merge)
+"
+pre;jbei_edd;93d34df02106d230a38cff76d9a610bbaef0379c;Mark Forrer <mark.forrer@lbl.gov>;1511983320;"Updated API client README's for Python 3 & client-side Docker image
+"
+pre;jbei_edd;f452b3e758c0a9ee84c131f817136125bd35e6b8;Mark Forrer <mark.forrer@lbl.gov>;1511990812;"Merge branch 'master' into private/feature/EDD-257-Cominatorial-line-creation-GUI
+
+# Conflicts:
+#	jbei/edd/rest/scripts/maintain_ice_links.py
+#	main/importer/experiment_desc/importer.py
+"
+pre;jbei_edd;b9eff5aa4ecfdaaffca0a7a66064a936235b7c94;Mark Forrer <mark.forrer@lbl.gov>;1512002712;"1) Fixed post-webpack JQuery reference in bulk creation GUI -- now as functional as it was before webpack transition.
+2) Improved styling to more closely resemble import 1.0, which it was patterned after (concurrently with 2.0 mockup creation).
+3) Fixed Javascript AJAX sort parameters to match new REST back-end implementation.
+"
+pre;jbei_edd;2c88a997e7524d84d598508ab682e84883f7872c;William Morrell <wcmorrell@lbl.gov>;1512073969;"Initial work on a notifications Django app
+"
+post;jbei_edd;c1d4a7046c7b4ea341ebe618df9007298a7f94e5;William Morrell <WCMorrell@lbl.gov>;1515443399;"Merge pull request #370 in EDD/edd-django from ~WCMORRELL/edd:bugfix/EDD-973-certificate-renewal-not-auto-reloaded to master
+
+Squashed commit of the following:
+
+commit a0260ee34b25536da70371d993a589ea6dd49628
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Wed Dec 20 14:34:55 2017 -0800
+
+    Include environment variable to relaunch nginx
+"
+post;jbei_edd;4146372f612770c7b8fffd63fdbd474589e5141d;William Morrell <WCMorrell@lbl.gov>;1515443446;"Merge pull request #369 in EDD/edd-django from ~WCMORRELL/edd:bugfix/EDD-476-autogen-gene-types to master
+
+Squashed commit of the following:
+
+commit d15afe10d0fb18682da6743d073155cecaacc500
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Dec 19 17:37:24 2017 -0800
+
+    Update GeneIdentifier admin with model changes
+
+commit 80b0e906bd4350149204e888b4e8303b4294bf25
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Dec 12 15:59:27 2017 -0800
+
+    Auto-create GeneIdentifier types in import
+
+    Try looking up the name used to identify a gene type in ICE and link
+    the found part to a new GeneIdentifier instance. Otherwise, match
+    the name to any existing GeneIdentifier created by the same user, or
+    create a new GeneIdentifier for that user/name combo.
+
+    Have the import front-end send back a hint if the user selected
+    measurements as Gene IDs during Step 3, to resolve how to look up
+    type names between metabolites, proteins, and genes.
+
+commit dca7271ab625e6ff7032b325a62847106eebaf04
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Dec 12 15:58:35 2017 -0800
+
+    Remove the unused/unmaintained rnaseq import
+
+commit 50f020a54d1ca7c5ea0a0c014caaeeb6043e73a5
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Dec 12 15:56:43 2017 -0800
+
+    Backport version num env fix from python3 branch
+"
+post;jbei_edd;94165e20c80983f403c99266b6e0022e42609f9c;William Morrell <WCMorrell@lbl.gov>;1515623617;"Merge pull request #371 in EDD/edd-django from ~WCMORRELL/edd:bugfix/EDD-975-bulk-edit-of-lines-is-broken to master
+
+Squashed commit of the following:
+
+commit bc49e2841c3daf3ae1fb83bf7563b8fd425c4ef0
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Wed Jan 10 13:49:30 2018 -0800
+
+    Prevent validation of hidden bulk form field
+
+    The line name field was marked as required, preventing form submission
+    in bulk edits because a required field was hidden. Change the bulk edit
+    to remove the required attribute from the field before hiding it, and
+    restore the attribute when showing it. Also cleared up the code, there
+    were two contiguous if-else blocks that were doing the same work.
+"
+post;jbei_edd;d17972001f62a2c9f58cb82e31d3d0536cb98cf3;William Morrell <WCMorrell@lbl.gov>;1516818725;"Merge pull request #372 in EDD/edd-django from ~WCMORRELL/edd:bugfix/EDD-976-incorrect-import-validations to master
+
+Squashed commit of the following:
+
+commit 9f3c7792ad5d1572cf4a688e34f4b911db6829ac
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Wed Jan 24 09:47:56 2018 -0800
+
+    Test no longer known-broken, check correct status code
+
+commit 962f539afa9f6962ec4363907fe25a126518a9c1
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Jan 23 18:45:55 2018 -0800
+
+    Correcting test failures from changing constants
+
+commit 9cc4a31a799c7def382dffb8b4834e44133fa25d
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Jan 23 14:49:58 2018 -0800
+
+    Gracefully handle deactivated lines in imports
+
+    Adding code to fix EDD-922, making the autocompletes and other AJAX
+    requests accept an 'active' parameter, limiting the returned data to
+    only those objects that are currently active. The previous default
+    included all objects, which caused some confusion when imported lines
+    were deleted and re-imported.
+
+commit 8d6982e47d1ea6ef04e6a00b44ecc2361d4a5972
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Tue Jan 23 13:01:18 2018 -0800
+
+    Clarifying interfaces for EDDAutocomplete
+
+    Documentation showed two separate and partially-functional ways to
+    pass along extra parameters. Eliminated the duplicate route, and
+    completed functionality to stay consistent across all classes.
+
+commit d9c32979524e06b6599d2929070b9f4ffec1187d
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Mon Jan 22 17:05:13 2018 -0800
+
+    Refactor autocomplete; subclass can alter results
+
+    Re-arrange some code in the autocomplete UI so that hard-coded processing
+    can instead be handled by subclasses, or use the default code defined
+    in the base class method.
+
+commit 358b084b63ce3c52e73f0b2218cbea3997ce47de
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Mon Jan 22 15:03:54 2018 -0800
+
+    Include type group in MeasurementType autocomplete
+
+    Imports could result in some unexpected data types because some protein
+    entries for an enzyme would use the same name as the metabolite the
+    enzyme acts upon. Including the type group ensures that the selected
+    type is the expected protein/metabolite.
+
+commit ff8b665c203bda0064af204af13a65c43b390518
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Thu Jan 18 15:04:13 2018 -0800
+
+    Correct the handling of import files missing time
+
+    Skyline files will not include time values, but the import page must
+    still process the data to show the ""master timestamp"" input. The
+    existing code would discard anything with a blank time.
+
+commit e0a7f315ee63ec993e18d573d8a7fc51ef8a4433
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Thu Jan 18 15:00:35 2018 -0800
+
+    Updating node base image in Dockerfiles
+
+    The image is now pointing to the LTS version of node, and is using the
+    much smaller alpine version. This cuts out approx 600MB from the node
+    image used.
+"
+post;jbei_edd;db82cf5e3dcb48e78579dc59c46384cbbf141e08;William Morrell <wcmorrell@lbl.gov>;1516833362;"Update maintainer, use quoting around variables
+"
+post;jbei_edd;ddb37a5496416c3252fc5167ab618f21a7e3a4ff;William Morrell <wcmorrell@lbl.gov>;1516916670;"Fix settings so REST API uses HTTPS links
+"
+post;jbei_edd;46d153ea28acb315734e539a96303ed08fada1b0;Mark Forrer <mark.forrer@lbl.gov>;1517274750;"Merge branch 'python3-test' into feature/EDD-964-Docker-image-for-REST-clients
+
+# Conflicts:
+#	docker_services/edd/requirements.txt
+#	jbei/edd/rest/scripts/sample_rest_queries.py
+#	main/importer/rnaseq.py
+"
+post;jbei_edd;3839bc1472056eef2c96d1eec0b00f94127e9570;William Morrell <WCMorrell@lbl.gov>;1517275219;"Merge pull request #373 in EDD/edd-django from ~WCMORRELL/edd:bugfix/EDD-984-add-new-line-button-does-nothing to master
+
+Squashed commit of the following:
+
+commit 5d19d69893a62a95a9048044082209471f9a1e84
+Author: William Morrell <wcmorrell@lbl.gov>
+Date:   Thu Jan 25 14:45:44 2018 -0800
+
+    Correct handling of new line edit dialog
+
+    Code was set up to assume that ""line edit"" was editing an existing line,
+    but the uses were meant to handle editing zero lines as creating a new
+    one. Rename the function from ""editLines"" to ""showLineEditDialog"" to
+    make this a bit clearer, and properly handle creating new lines again.
+"
+post;jbei_edd;5c92b62ad34e1ed893d1cd9ad02de634ac06dee1;Mark Forrer <mark.forrer@lbl.gov>;1517275503;"Manually backed out changes resulting from python3-test merge problems
+"
+post;jbei_edd;d957d1c57491f3d451fdd76035c8ef35dbac2796;Mark Forrer <mark.forrer@lbl.gov>;1517347329;"Removed REST package-level imports added as an EDD-specific refactoring stopgap...shouldn't make those same assumptions in arbitrary client code.  Updated EDD client code to use the full module path to edd/ice's api.py
+"
+pre;oxfordcontrol_cosmo.jl;73d9befb397f952de5d6a99a9f3bb1ee89676d0c;Benoît Legat <benoit.legat@gmail.com>;1690190482;"Remove support for VectorOfVariables
+"
+pre;oxfordcontrol_cosmo.jl;9cbaba6558c63f8be47c515ebc9a91610f77bc4c;Benoît Legat <benoit.legat@gmail.com>;1691331588;"Remove support for VectorOfVariables (#182)
+
+"
+pre;oxfordcontrol_cosmo.jl;5f43256ba98bd5ded33f8737eb115a99d0662bd9;Documenter.jl <documenter@juliadocs.github.io>;1691332426;"build based on 9cbaba6
+"
+pre;oxfordcontrol_cosmo.jl;c8cf727b5bc64c3eaf0eb4bf3533fd3eed5c7753;Benoît Legat <benoit.legat@gmail.com>;1691503252;"Fix
+"
+pre;oxfordcontrol_cosmo.jl;817cb87d2fc0fbe0feada8bf30904669ce2ded94;Benoît Legat <benoit.legat@gmail.com>;1694292155;"Remove support for LessThan
+"
+pre;oxfordcontrol_cosmo.jl;44559325e5d46258d7623ba347382c8155cc06ff;Oscar Dowson <odow@users.noreply.github.com>;1694658745;Fix get for MOI.TimeLimitSec
+pre;oxfordcontrol_cosmo.jl;dd6a6fdbda91231e4c3a108d072389e50a5003ac;Benoît Legat <benoit.legat@gmail.com>;1695325250;"Replace PSDTriangle with scaled version (#181)
+
+* Replace PSDTriangle with scaled version
+
+* Fix
+
+* Remove support for LessThan"
+pre;oxfordcontrol_cosmo.jl;ce108abae90670049ae91efe5532236f2adb6bfe;Documenter.jl <documenter@juliadocs.github.io>;1695326131;"build based on dd6a6fd
+"
+pre;oxfordcontrol_cosmo.jl;5d2369ad0697b7214f34b42590c98cdef011e66c;CompatHelper Julia <compathelper_noreply@julialang.org>;1698540843;"CompatHelper: add new compat entry for Statistics at version 1, (keep existing compat)
+"
+pre;oxfordcontrol_cosmo.jl;5b275f9e15e33c0262b5def44f8a130e27891b9b;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1698540847;"Merge 5d2369ad0697b7214f34b42590c98cdef011e66c into dd6a6fdbda91231e4c3a108d072389e50a5003ac
+"
+post;oxfordcontrol_cosmo.jl;25d383245814c1c859cbc8cbe0e803ecf40e0cec;goulart-paul <paul.goulart@eng.ox.ac.uk>;1713079326;"force include diagonal in aggregate sparsity
+"
+post;oxfordcontrol_cosmo.jl;f97da256d5d46362eb9c400f6e0ded89c8ef1834;Paul Goulart <paul.goulart@eng.ox.ac.uk>;1714827917;" Force include diagonal in aggregate sparsity (#187)
+
+Attempts to resolve issue #183 "
+post;oxfordcontrol_cosmo.jl;a8e208956faac712a384bb6e00f594d827dcdc52;Documenter.jl <documenter@juliadocs.github.io>;1714828294;"build based on f97da25
+"
+post;oxfordcontrol_cosmo.jl;7793f6351dc8641aae629fb0bbf842c2dee947d0;Michael Garstka <michael@garstka.org>;1714828782;"Add sections to Documentation
+"
+post;oxfordcontrol_cosmo.jl;b355c89aa0a4324fa047f6c2876d7b792403fb51;Michael Garstka <michael@garstka.org>;1714829274;"Add sections to Documentation (#188)
+
+"
+post;oxfordcontrol_cosmo.jl;20764ba075e1f598ec17990fb1721dcb5a3b418b;Michael Garstka <michael@garstka.org>;1714829377;"Bump version to 0.8.9
+"
+post;oxfordcontrol_cosmo.jl;2d12c4d18156a15e495919b02e03ade5000dc2b4;Documenter.jl <documenter@juliadocs.github.io>;1714829633;"build based on b355c89
+"
+post;oxfordcontrol_cosmo.jl;8ebbd68a9e33a74cbe7ff616f475cbca3e00ea0d;Documenter.jl <documenter@juliadocs.github.io>;1714829774;"build based on 20764ba
+"
+post;oxfordcontrol_cosmo.jl;68e7adfc7ccb6a3e48e7450bd71601c3aa58e3a9;Michael Garstka <michael@garstka.org>;1714830152;Add reference to examples
+post;oxfordcontrol_cosmo.jl;a6ed938b05f4be02e3fc65d8efbb5120b2df68e7;Documenter.jl <documenter@juliadocs.github.io>;1714830522;"build based on 68e7adf
+"
+pre;qutech-delft_quantuminspire;71e6454717857d26473dbaf013592df14d780c0f;qSaevar <saevar.steinn@gmail.com>;1572011604;"fixing a broken test
+"
+pre;qutech-delft_quantuminspire;07d4d82c22d56d190efd455d4ce208238c8a17d0;QFer <f.j.grooteman@tudelft.nl>;1572947978;"[DEM-1186] stripping spaces and tabs from qasm
+"
+pre;qutech-delft_quantuminspire;a26d4b3d09aa02f04aa4bbec92ba593d58948847;qSaevar <39056113+qSaevar@users.noreply.github.com>;1572949587;"[DEM-1183] Offboard team member (#71)
+
+* Changed password
+* Fixed a broken test"
+pre;qutech-delft_quantuminspire;1982dbbcc184c2deacf1e6d6963bb47977f9ba00;QFer <f.j.grooteman@tudelft.nl>;1573111818;"[DEM-1186] test with tabs and lstrip instead of strip
+"
+pre;qutech-delft_quantuminspire;a2fcec0a11d935176f35a461d742cf08c7908fb9;QFer <46991941+QFer@users.noreply.github.com>;1573475030;"[DEM-1186] stripping spaces and tabs from qasm (#73)
+
+* [DEM-1186] stripping spaces and tabs from qasm
+"
+pre;qutech-delft_quantuminspire;bba8a5afe7425ac5f124e42c7bfcb2e2556c11ce;QFer <f.j.grooteman@tudelft.nl>;1574148368;"[DEM-1194] full state projection default value False and some license headers added
+"
+pre;qutech-delft_quantuminspire;7e344aa9752b7e6027b41d9b7f699b84b2ab34f2;QFer <f.j.grooteman@tudelft.nl>;1574148637;"[DEM-1194] imports ordering
+"
+pre;qutech-delft_quantuminspire;26a515f7e8a0eda46d407b4f6d6541228cc4aa53;QFer <f.j.grooteman@tudelft.nl>;1574149219;"[DEM-1194] unused parameter
+"
+pre;qutech-delft_quantuminspire;e70d83fcde03bbf28d065f61da3c19651593a081;QFer <f.j.grooteman@tudelft.nl>;1574260581;"[DEM-1194] parameter passed to set_basic_authentication instead of del-eating it
+"
+pre;qutech-delft_quantuminspire;c4614b8e80a7b8a2b1b297456be47a6ecec5c5a2;QFer <46991941+QFer@users.noreply.github.com>;1574345525;"[DEM-1194] Full state projection (#74)
+
+* [DEM-1194] full state projection default value False and some license headers added
+"
+post;qutech-delft_quantuminspire;e435dcd6ae3bbe1fa34d15c165afef75ca91bd77;QFer <f.j.grooteman@tudelft.nl>;1585914605;"[DEM-1399] fix for unsupported cxx gate in default cnot decomposition
+"
+post;qutech-delft_quantuminspire;c93660c7da023ec1a26e306e57c88cf42eb96e95;QFer <f.j.grooteman@tudelft.nl>;1585918646;"version collisions qiskit and numpy
+"
+post;qutech-delft_quantuminspire;3090e6fedb0fd24d0a7bb0c53a817978249de3eb;QFer <46991941+QFer@users.noreply.github.com>;1585920282;"[DEM-1399] fix for unsupported cxx gate in default cnot decomposition (#75)
+
+* [DEM-1399] fix for unsupported cxx gate in default cnot decomposition
+
+* version collisions qiskit and numpy"
+post;qutech-delft_quantuminspire;0ce0d7ebbb38723fcc8ed20474f2b7d3c3324551;QFer <f.j.grooteman@tudelft.nl>;1586161452;"[DEM-1185] Result generates nice error when creating job fails
+"
+post;qutech-delft_quantuminspire;3fe8117e796257d03f6105525aac864cc8480ccd;QFer <f.j.grooteman@tudelft.nl>;1586168845;"[DEM-1185] Review comments - fstrings
+"
+post;qutech-delft_quantuminspire;54f9c80d09cd5a5de75323959dfabd8cbae93afe;QFer <46991941+QFer@users.noreply.github.com>;1586178229;"[DEM-1185] Result generates nice error when creating job fails (#76)
+
+* [DEM-1185] Result generates nice error when creating job fails
+
+* [DEM-1185] Review comments - fstrings"
+post;qutech-delft_quantuminspire;24a6031f8a6d8fb710fa726f9ff3baa039a510ad;Pieter Eendebak <pieter.eendebak@gmail.com>;1586430205;"add citation notice
+"
+post;qutech-delft_quantuminspire;f85dcaa786679cd17e221f2bb0306dcbab336baa;Pieter Eendebak <pieter.eendebak@gmail.com>;1586430309;"add dot
+"
+post;qutech-delft_quantuminspire;13972336f10b12e9b73be0be04f3fbcf6937e360;QFer <f.j.grooteman@tudelft.nl>;1586441849;"[DEM-1418] No message about non-optimized experiments on hardware backends
+"
+post;qutech-delft_quantuminspire;84714b8824f00755b025619f20704217cc1cb49d;QFer <f.j.grooteman@tudelft.nl>;1586512333;"Fixed test incompomtaibility by change in qiskit 0.18.0
+"
+pre;scify_jedaitoolkit;40bd32a4678ffa2ddd8b9980c74123455e88c759;gpapadis <gpapadis@yahoo.gr>;1666861474;Update README.md
+pre;scify_jedaitoolkit;b65fa802146bb7b9d42fe60e52f79b7c8659c775;gpapadis <gpapadis@yahoo.gr>;1666861504;Update README.md
+pre;scify_jedaitoolkit;9f6599eae5c5ac9dc887892a84628ff3c7a393df;Manos <emmanouil.thanos@kuleuven.be>;1668092272;"RCA without 2d float matrix
+"
+pre;scify_jedaitoolkit;e7bcc979f90062341addcbc97d6a3d1fc42c7899;Manos <emmanouil.thanos@kuleuven.be>;1668131904;"BAH methods without 2d float matrix
+"
+pre;scify_jedaitoolkit;1f9e214a0b34d8bfd1233e314fc80921ebe293d0;gpapadis <gpapadis@yahoo.gr>;1671849225;Update PrintDatasets.java
+pre;scify_jedaitoolkit;72e7dd859b6a97ac1feeb5572debe84ff46061e2;CVEDetect <89496918+CVEDetect@users.noreply.github.com>;1673580911;Update pom.xml
+pre;scify_jedaitoolkit;d9ddaaa9089f0e2eb6b8e59fd239e8093492b345;gpapadis <gpapadis@yahoo.gr>;1673594695;"Merge pull request #64 from CVEDetect/master
+
+Fix CVE dependency issue"
+pre;scify_jedaitoolkit;c6e8467575bf027ad172dccc9afed8d670225fdb;moemode <pfeffer.moritz@gmail.com>;1698252971;"Add example for writing out DBPedia dataset into txt file
+"
+pre;scify_jedaitoolkit;67d8c5e4f9ed4c70beab8f42498dd0a322823d9d;gpapadis <gpapadis@yahoo.gr>;1698253440;"Merge pull request #66 from moemode/master
+
+Add example for writing out DBPedia dataset into txt file"
+pre;scify_jedaitoolkit;134869c94299bf40877097cce1075b127b18650e;gpapadis <gpapadis@yahoo.gr>;1712922776;Add files via upload
+post;scify_jedaitoolkit;0fdfd8c2db714dd3ddc9b6e9aa836e17de754162;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1752284583;"Bump org.apache.commons:commons-lang3 from 3.4 to 3.18.0
+
+Bumps org.apache.commons:commons-lang3 from 3.4 to 3.18.0.
+
+---
+updated-dependencies:
+- dependency-name: org.apache.commons:commons-lang3
+  dependency-version: 3.18.0
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;scify_jedaitoolkit;22abcfeac5251260941c4278c433bff494ec1ca7;Paul Isaris <paulisaris@gmail.com>;1752295364;"Merge pull request #68 from scify/dependabot/maven/org.apache.commons-commons-lang3-3.18.0
+
+Bump org.apache.commons:commons-lang3 from 3.4 to 3.18.0"
+pre;soft-matter_trackpy;c3ecb49edd9aed70743c0578768d1fdb946ec229;Nathan Keim <keim@psu.edu>;1594652575;"Merge be890c8222c31abac0ac796389a7fe4bb012622c into cdab60a9d9572bb1e214b69f680dfaf355c370ec
+"
+pre;soft-matter_trackpy;5b302758f9b522e3b128f1ecf85c1e27bc14a646;Dan Allan <daniel.b.allan@gmail.com>;1594652575;"Merge d122a27f1fbed4f813eccaa906c96562bbd01f6b into cdab60a9d9572bb1e214b69f680dfaf355c370ec
+"
+pre;soft-matter_trackpy;6f0795112f582e5cd7c17639f345796dd9c3297f;Maxim Ivanov <ivanovmg@gmail.com>;1598357302;"Add helper class ParticlesLocator
+
+Previously the function ``trackpy.feature.locate``
+contained a lot of procedures, which made it difficult to comprehend.
+
+The class ``ParticlesLocator`` allows the following:
+ - Validation of input parameters using property setters.
+ - Readable methods, extracted from commented regions.
+ - Public method ``locate``, which contains a readable sequence
+ of steps to be carried out before returning the coordinates.
+"
+pre;soft-matter_trackpy;05c9d1651cfd8b7d0f5b57308b7c8c2cb432a927;ivanovmg <41443370+ivanovmg@users.noreply.github.com>;1598457051;"Merge 6f0795112f582e5cd7c17639f345796dd9c3297f into cdab60a9d9572bb1e214b69f680dfaf355c370ec
+"
+pre;soft-matter_trackpy;dbb964e2e5835866e450fd79a474f9d31ac7c68a;Maxim Ivanov <ivanovmg@gmail.com>;1598460049;"Fix VisibleDeprecationWarning
+"
+pre;soft-matter_trackpy;4a2125c07308bf8f950ff64b3db49300b7ebbfa3;ivanovmg <41443370+ivanovmg@users.noreply.github.com>;1598461145;"Merge dbb964e2e5835866e450fd79a474f9d31ac7c68a into cdab60a9d9572bb1e214b69f680dfaf355c370ec
+"
+pre;soft-matter_trackpy;25c3011e957d171eaf7264c22472eefdbcafb727;Maxim Ivanov <ivanovmg@gmail.com>;1598462638;"Update pandas.testing imports
+"
+pre;soft-matter_trackpy;3219f1dc3a394ff2eeb96e1887fc993bbef75cfd;Maxim Ivanov <ivanovmg@gmail.com>;1598857010;"Update testing imports
+
+1. Explicitly import assert_almost_equal from numpy.testing
+2. Import assert_produces_warning from pandas._testing
+   as suggested in Pandas contributing guide
+   https://pandas.pydata.org/docs/development/contributing.html#testing-warnings
+"
+pre;soft-matter_trackpy;f69322b2fc3868788d9b0338bc857c143493966b;Maxim Ivanov <ivanovmg@gmail.com>;1598896264;"Attempt to make pandas 0.20.3 compatible
+"
+pre;soft-matter_trackpy;c3651a23347af30205600a3b15da8c53494923fc;ivanovmg <41443370+ivanovmg@users.noreply.github.com>;1598896274;"Merge f69322b2fc3868788d9b0338bc857c143493966b into cdab60a9d9572bb1e214b69f680dfaf355c370ec
+"
+post;soft-matter_trackpy;a9978df3e2834a27be5827ae7f1e237d0cbe8234;Maxim Ivanov <41443370+ivanovmg@users.noreply.github.com>;1613218559;"Update pandas.testing imports (#632)
+
+"
+post;soft-matter_trackpy;45c774c388e79475e4537c859c6e59e6b7a39d2a;Hugo van Kemenade <hugovk@users.noreply.github.com>;1613218886;"Drop support for EOL Python 2 (#619)
+
+"
+post;soft-matter_trackpy;740e1041400aa1da6c6aff3df83fa7bf83430004;Casper van der Wel <caspervdw@gmail.com>;1613220666;"Transition to Github Actions
+"
+post;soft-matter_trackpy;adbaf3f8be56bba41f4c20218483ebcc2749cc43;Casper van der Wel <caspervdw@gmail.com>;1613220943;"No pip build isolation
+"
+post;soft-matter_trackpy;8c7b6d145fe57b57e69795a12217dd1e3a53f547;Casper van der Wel <caspervdw@gmail.com>;1613221420;"First install numpy
+"
+post;soft-matter_trackpy;331779f2640b8c17dc3884d1260e07125c2725c3;Casper van der Wel <caspervdw@gmail.com>;1613221935;"No numba on Py3.9
+"
+post;soft-matter_trackpy;6598226a30cc0b3d925804b2d6c245cf9a70a9bd;Casper van der Wel <caspervdw@gmail.com>;1613222416;"No numba on linux install
+"
+post;soft-matter_trackpy;acaa46c09c37b2262548000ec2df02d4954a0879;Casper van der Wel <caspervdw@gmail.com>;1613222831;"Fix conda builds and unpin tables for recent py versions
+"
+post;soft-matter_trackpy;d3713430fdbd58adeed09dfd5f10615f62c6095e;Casper van der Wel <caspervdw@gmail.com>;1613223359;"Rename linux to pip and run on latest Ubuntu
+"
+post;soft-matter_trackpy;80db8fdb01176fd146f744c7e51bf4f3a993471c;Casper van der Wel <caspervdw@gmail.com>;1613223514;"Remove test-linux
+"
+pre;tryolabs_norfair;6b03706fa079e480354c915ce8b13a79558fe55e;Joaquín Alori <joaqo@users.noreply.github.com>;1623341801;"Merge pull request #57 from fcakyon/fcakyon-patch-1
+
+Fix typo in docs"
+pre;tryolabs_norfair;d9decd22c0d31dd296071d8bdbc9490af7ecf398;Joaquín Alori <joaqo@users.noreply.github.com>;1623341801;"Merge pull request #57 from fcakyon/fcakyon-patch-1
+
+Fix typo in docs"
+pre;tryolabs_norfair;034b5b974e0fb81fcc43f1a35039a53d9b201dd7;fcakyon <34196005+fcakyon@users.noreply.github.com>;1623345224;"Bug fix in index for prediction score in YOLOv5 demo (#58)
+
+"
+pre;tryolabs_norfair;8e0253ed52b6577d2dc6625b88d6a51249a68a1b;fcakyon <34196005+fcakyon@users.noreply.github.com>;1623345224;"Bug fix in index for prediction score in YOLOv5 demo (#58)
+
+"
+pre;tryolabs_norfair;1ff44b4052a6bf7345b5fdc6d67f4347f31e71b0;Alan Descoins <dekked@gmail.com>;1627573522;"Version bump to 0.3.1.
+"
+pre;tryolabs_norfair;05dcf27cc6138133ce805810359c2ebe015d70f8;Alan Descoins <dekked@gmail.com>;1627573522;"Version bump to 0.3.1.
+"
+pre;tryolabs_norfair;19ee8b76c495da8704ebf35c5997958ef7fb7137;Alan Descoins <dekked@gmail.com>;1627573877;"Add DOI identifier.
+"
+pre;tryolabs_norfair;d540387618d514b501f96b1ad533228087c4d3f8;Alan Descoins <dekked@gmail.com>;1627573877;"Add DOI identifier.
+"
+pre;tryolabs_norfair;4012b71c546b4c48c9c1067769f522c655e58834;Alan Descoins <dekked@gmail.com>;1627574769;"Add instructions for citing.
+"
+pre;tryolabs_norfair;d6f63cae4aa13ce0c1605f270d25fc6846e8efd5;Alan Descoins <dekked@gmail.com>;1627574769;"Add instructions for citing.
+"
+post;tryolabs_norfair;f0ce33797ebc404058448ee09c3f025fd354e65e;joaqo <joaquin.alori@gmail.com>;1633117946;"Add support for storing several past detections on TrackedObjects
+"
+post;tryolabs_norfair;e8ad93436742018a903b50592756a2bf9ce85ef5;joaqo <joaquin.alori@gmail.com>;1633117946;"Add support for storing several past detections on TrackedObjects
+"
+post;tryolabs_norfair;70dcf9e70943ef736a9fcd7a5f96c15f62f9012e;Joaquín Alori <joaqo@users.noreply.github.com>;1633125806;"Merge pull request #74 from tryolabs/embedding
+
+Add support for storing several past detections on TrackedObjects"
+post;tryolabs_norfair;ac8b389e9e4e5d238bc5eb39f03babc6f6326b6c;Joaquín Alori <joaqo@users.noreply.github.com>;1633125806;"Merge pull request #74 from tryolabs/embedding
+
+Add support for storing several past detections on TrackedObjects"
+post;tryolabs_norfair;93ddd6a68f9bd39906187fdcca1bc954308cf7cf;Sharif Elfouly <selfouly@gmail.com>;1633157215;"Merge bc32b3b4aa25ce579f32cc436150e99ecbbd4048 into ac8b389e9e4e5d238bc5eb39f03babc6f6326b6c
+"
+post;tryolabs_norfair;8a82b294bfdbd7d802ae83095e4154359b73269a;David Huh <38101884+Huh-David@users.noreply.github.com>;1641284734;:pencil2: Fixed argument parsing
+post;tryolabs_norfair;07b869fe22aff81a7c098ea489ecb31e387fd75f;David Huh <38101884+Huh-David@users.noreply.github.com>;1641284734;:pencil2: Fixed argument parsing
+post;tryolabs_norfair;4b50f5544e48ab3576621e0d87917a894acce6a2;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1642047701;"Bump pillow from 8.1.0 to 9.0.0
+
+Bumps [pillow](https://github.com/python-pillow/Pillow) from 8.1.0 to 9.0.0.
+- [Release notes](https://github.com/python-pillow/Pillow/releases)
+- [Changelog](https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst)
+- [Commits](https://github.com/python-pillow/Pillow/compare/8.1.0...9.0.0)
+
+---
+updated-dependencies:
+- dependency-name: pillow
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;tryolabs_norfair;922fb05ab89dcc78a87914719d7cbb03923b0f8a;Joaquín Alori <joaqo@users.noreply.github.com>;1642441123;"Merge pull request #78 from Huh-David/patch-1
+
+Fixed argument parsing in Yolov5 demo"
+post;tryolabs_norfair;1e35cb311b32827030a147e6e9ce4528343e51ca;Joaquín Alori <joaqo@users.noreply.github.com>;1642441123;"Merge pull request #78 from Huh-David/patch-1
+
+Fixed argument parsing in Yolov5 demo"
